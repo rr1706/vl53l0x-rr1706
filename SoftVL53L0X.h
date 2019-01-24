@@ -1,6 +1,7 @@
 #ifndef SoftVL53L0X_h
 #define SoftVL53L0X_h
 
+#include <Arduino.h>
 #include <VL53L0X.h>
 #include <SoftwareWire.h>
 
